@@ -31,8 +31,6 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_staggered_grid_view: ^0.6.2
-  simple_animations: ^4.2.0
-  supercharged: ^2.1.1
   audioplayers: ^0.20.1
   lottie: ^2.3.2
   # The following adds the Cupertino Icons font to your application.
